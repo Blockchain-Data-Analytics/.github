@@ -1,6 +1,6 @@
 # BCA - Blockchain Data Analytics
 
-Blockchain projects use transactions to move value from one account ot another. Smart contracts control when these funds are moved.
+Blockchain projects use transactions to move value from one account to another. Smart contracts control when these funds are moved.
 
 We think that such transaction events can be used for more:
 * drive business processes 🤸
