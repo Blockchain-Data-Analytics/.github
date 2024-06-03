@@ -19,3 +19,9 @@ We aim to provide our data services with these features:
 - affordable pay-per-usage
 
 Stay tuned 🚀
+
+### talk to us
+
+let's have a [coffee chat](https://calendly.com/avd-oiog/coffee-chat)  ☕ 
+
+(daily slots available for interesting conversations. This link leads to _calendly_ to make a reservation)
