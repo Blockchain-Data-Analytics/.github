@@ -9,6 +9,12 @@
   [![BCA Queries Cardano](https://blockchain-data-analytics.github.io/BCA-Queries-Cardano/images/BCA_Queries_logo_filled.png)](https://blockchain-data-analytics.github.io/BCA-Queries-Cardano/)
 
 
+### Monitoring of our infrastructure
+
+- server [uptime](https://stats.uptimerobot.com/6Zny9vYklU)
+- Db-sync [block time delta](https://monitoring.bca.sbclab.net/public-dashboards/358cf9717a3d4927a836983bc6a42003?orgId=1)
+
+
 ### Work with us
 
 Transactions on blockchains move value from one account to another. Smart contracts control when these funds are moved.
