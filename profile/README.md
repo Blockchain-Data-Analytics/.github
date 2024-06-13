@@ -2,11 +2,15 @@
 
 ### Products and Services
 
-* June 09, we have launched our first SaaS offering:
-
-  **query the Cardano blockchain on our high-availability infrastructure**
+* **query the Cardano blockchain on our high-availability infrastructure**
 
   [![BCA Queries Cardano](https://blockchain-data-analytics.github.io/BCA-Queries-Cardano/images/BCA_Queries_logo_filled.png)](https://blockchain-data-analytics.github.io/BCA-Queries-Cardano/)
+
+* June 14, we have launched our next SaaS offering:
+
+  **stream the Cardano blockchain to your own database infrastructure**
+
+  [![BCA Streams Cardano](https://blockchain-data-analytics.github.io/BCA-Streams-Cardano/images/BCA_Streams_logo_filled.png)](https://blockchain-data-analytics.github.io/BCA-Streams-Cardano/)
 
 
 ### Monitoring of our infrastructure
