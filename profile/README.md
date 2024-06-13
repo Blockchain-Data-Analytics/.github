@@ -8,7 +8,7 @@
 
 * June 14, we have launched our next SaaS offering:
 
-  **stream the Cardano blockchain to your own database infrastructure**
+  **stream the Cardano blockchain to your own database**
 
   [![BCA Streams Cardano](https://blockchain-data-analytics.github.io/BCA-Streams-Cardano/images/BCA_Streams_logo_filled.png)](https://blockchain-data-analytics.github.io/BCA-Streams-Cardano/)
 
