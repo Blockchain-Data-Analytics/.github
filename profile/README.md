@@ -5,7 +5,6 @@
 - [Work with us](#work-with-us)
 
 ----
-[top](#)
 
 ### Catalyst Fund 12 submissions
 
@@ -15,6 +14,7 @@
   |      (   |  |    (   |  |  |   | \__ \  |       __| |   |  |   |  (   |      |   __/  
  \____| \__,_| \__| \__,_| _| \__, | ____/ \__|    _|  \__,_| _|  _| \__,_|     _| _____| 
                               ____/                                                       </pre>
+[top](#)
 
 We are working on the following projects and seek funding from [Catalyst](https://cardano.ideascale.com/c/landing) Fund 12. Please, help us achieve our funding goals by including these projects in your voting:
 
@@ -33,15 +33,15 @@ Repository: [Cardano_on_BigQuery](https://github.com/Blockchain-Data-Analytics/C
 Repository: [Cardano_Alert](https://github.com/Blockchain-Data-Analytics/Cardano_Alert)
 
 ----
-[top](#)
 
 ### Products and Services
 
 <pre>
-       _ \                |               |                               |      ___|                    _)                   
-      |   |  __| _ \   _` |  |   |   __|  __|   __|      _` |  __ \    _` |    \___ \   _ \   __| \ \   / |   __|   _ \   __| 
-      ___/  |   (   | (   |  |   |  (     |   \__ \     (   |  |   |  (   |          |  __/  |     \ \ /  |  (      __/ \__ \ 
-     _|    _|  \___/ \__,_| \__,_| \___| \__| ____/    \__,_| _|  _| \__,_|    _____/ \___| _|      \_/  _| \___| \___| ____/ </pre>
+   _ \                |               |              _ )        ___|                    _)                   
+  |   |  __| _ \   _` |  |   |   __|  __|   __|      _ \ \    \___ \   _ \   __| \ \   / |   __|   _ \   __| 
+  ___/  |   (   | (   |  |   |  (     |   \__ \     ( `  <          |  __/  |     \ \ /  |  (      __/ \__ \ 
+ _|    _|  \___/ \__,_| \__,_| \___| \__| ____/    \___/\/    _____/ \___| _|      \_/  _| \___| \___| ____/ </pre>
+[top](#)
 
 * **query the Cardano blockchain on our high-availability infrastructure**
 
@@ -60,7 +60,6 @@ Repository: [Cardano_Alert](https://github.com/Blockchain-Data-Analytics/Cardano
 - Db-sync [block time delta](https://monitoring.bca.sbclab.net/public-dashboards/358cf9717a3d4927a836983bc6a42003?orgId=1)
 
 ----
-[top](#)
 
 ### Work with us
 
@@ -69,6 +68,7 @@ Repository: [Cardano_Alert](https://github.com/Blockchain-Data-Analytics/Cardano
   \ \  \   / _ \   __| |  /    \ \  \   / |  __|  __ \      |   |   __| 
    \ \  \ / (   | |      <      \ \  \ /  |  |    | | |     |   | \__ \ 
     \_/\_/ \___/ _|   _|\_\      \_/\_/  _| \__| _| |_|    \__,_| ____/ </pre>
+[top](#)
 
 Transactions on blockchains move value from one account to another. Smart contracts control when these funds are moved.
 
