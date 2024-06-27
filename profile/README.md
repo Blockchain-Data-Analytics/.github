@@ -1,5 +1,24 @@
 # BCA - Blockchain Data Analytics
 
+### Catalyst Fund 12 submissions
+
+We are working on the following projects and seek funding from [Catalyst](https://cardano.ideascale.com/c/landing) Fund 12. Please, help us achieve our funding goals by including these projects in your voting:
+
+#### **122016** [Research on blockchain search with proven privacy](https://cardano.ideascale.com/c/idea/122016)
+
+Repository: [Privacy_Preserving_Db_Search](https://github.com/Blockchain-Data-Analytics/Privacy_Preserving_Db_Search)
+
+
+#### **122374** [Cardano on BigQuery: open, fast and easy querying of on-chain data](https://cardano.ideascale.com/c/idea/122374)
+
+Repository: [Cardano_on_BigQuery](https://github.com/Blockchain-Data-Analytics/Cardano_on_BigQuery)
+
+
+#### **122044** [Cardano Alert: get notified on blockchain transactions matching your search criteria](https://cardano.ideascale.com/c/idea/122044)
+
+Repository: [Cardano_Alert](https://github.com/Blockchain-Data-Analytics/Cardano_Alert)
+
+
 ### Products and Services
 
 * **query the Cardano blockchain on our high-availability infrastructure**
@@ -39,7 +58,7 @@ We offer our data services with these features:
 - reliable and trackable
 - affordable pay-per-usage
 
-Stay tuned 🚀
+Follow us and [sponsor](https://github.com/sponsors/Blockchain-Data-Analytics) our work 🚀
 
 
 ### Talk to us
