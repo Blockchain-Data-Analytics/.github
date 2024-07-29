@@ -1,36 +1,7 @@
 # BCA - Blockchain Data Analytics
 
-- [Catalyst Fund 12 submissions](#catalyst-fund-12-submissions)
 - [Products and Services](#products-and-services)
 - [Work with us](#work-with-us)
-
-----
-
-### Catalyst Fund 12 submissions
-
-<pre>
-   ___|         |           |               |       ____|                 |    _ | ___ \  
-  |       _` |  __|   _` |  |  |   |   __|  __|     |   |   |  __ \    _` |      |    ) | 
-  |      (   |  |    (   |  |  |   | \__ \  |       __| |   |  |   |  (   |      |   __/  
- \____| \__,_| \__| \__,_| _| \__, | ____/ \__|    _|  \__,_| _|  _| \__,_|     _| _____| 
-                              ____/                                                       </pre>
-[top](#)
-
-We are working on the following projects and seek funding from [Catalyst](https://cardano.ideascale.com/c/landing) Fund 12. Please, help us achieve our funding goals by including these projects in your voting:
-
-#### **122016** [Research on blockchain search with proven privacy](https://cardano.ideascale.com/c/idea/122016)
-
-Repository: [Privacy_Preserving_Db_Search](https://github.com/Blockchain-Data-Analytics/Privacy_Preserving_Db_Search)
-
-
-#### **122374** [Cardano on BigQuery: open, fast and easy querying of on-chain data](https://cardano.ideascale.com/c/idea/122374)
-
-Repository: [Cardano_on_BigQuery](https://github.com/Blockchain-Data-Analytics/Cardano_on_BigQuery)
-
-
-#### **122044** [Cardano Alert: get notified on blockchain transactions matching your search criteria](https://cardano.ideascale.com/c/idea/122044)
-
-Repository: [Cardano_Alert](https://github.com/Blockchain-Data-Analytics/Cardano_Alert)
 
 ----
 
