@@ -64,8 +64,4 @@ Follow us and [sponsor](https://github.com/sponsors/Blockchain-Data-Analytics) o
 
 ### Talk to us
 
-let's have a [coffee chat](https://calendly.com/avd-oiog/coffee-chat)  ☕ 
-
-(daily slots available for interesting conversations. This link leads to _calendly_ to make a reservation)
-
-or, write ✉ to (_bca ＠ sbclab ．net_)
+write ✉ to (_bca ＠ sbclab ．net_)
