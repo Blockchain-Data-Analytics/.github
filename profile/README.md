@@ -64,4 +64,4 @@ Follow us and [sponsor](https://github.com/sponsors/Blockchain-Data-Analytics) o
 
 ### Talk to us
 
-write ✉ to (_bca ＠ sbclab ．net_)
+write ✉ to (_info ＠ blockchain-applied ．com_)
